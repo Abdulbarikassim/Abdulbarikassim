@@ -26,7 +26,7 @@ I'm @Abdulbarikassim, an aspiring backend engineer and tech enthusiast with a Ba
 - Build AI-powered tools for businesses like ENOC to optimize processes.
 
 ### 📫 Let's connect!
-- 🌍 [LinkedIn](https://www.linkedin.com) 
+- 🌍 [LinkedIn](www.linkedin.com/in/abdulbari-kassim-a86726300) 
 - 🐦 [Twitter](https://twitter.com) 
 
 ---
