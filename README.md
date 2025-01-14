@@ -27,8 +27,8 @@ I'm @Abdulbarikassim, an aspiring backend engineer and tech enthusiast with a Ba
 
 ### 📫 Let's connect!
 - 🌍 [LinkedIn](https://www.linkedin.com/in/abdulbari-kassim-a86726300/) 
-- 🐦 [Twitter](https://www.instagram.com/abdi6ari/profilecard/) 
+- 🐦 [Instagram](https://www.instagram.com/abdi6ari/profilecard/) 
 
 ---
 
-Feel free to personalize this further based on your specific projects, interests, or any additional achievements! If you'd like, I can help you refine it further. 😊
+
