@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm @Abdulbarikassim, an aspiring machine engineer and tech enthusiast with a Bachelor's degree in Information Technology from Middlesex University Dubai 🎓. Currently in my final year, I’m exploring the depths of web development, machine learning, and artificial intelligence.
+I'm @Abdulbarikassim, an aspiring backend engineer  and tech enthusiast with a Bachelor's degree in Information Technology from Middlesex University Dubai 🎓. Currently in my final year, I’m exploring the depths of web development, machine learning, and artificial intelligence.
 
 ### 🌟 About Me
 - 🔧 Proficient in **Node.js**, **MongoDB**, **Express.js**, **C++** and **python**.
@@ -17,13 +17,11 @@ I'm @Abdulbarikassim, an aspiring machine engineer and tech enthusiast with a Ba
 - **Tools**: Git, Docker, VS Code
 - **Concepts**: Neural Networks, Backend Development, API Design, Middleware, Routing and Deep Learning.
 
-### 🌱 I’m currently learning
-- 📖 **Calculus** via Khan Academy to deepen my understanding of ML algorithms.
-- 📦 Enhancing my skills in backend development without ORMs like Mongoose.
+
 
 ### 🎯 Goals
-- Transition into a machine  engineering role post-graduation.
-- Build AI-powered tools for businesses like ENOC to optimize processes.
+- Transition into a backend engineer  role post-graduation.
+
 
 ### 📫 Let's connect!
 - 🌍 [LinkedIn](https://www.linkedin.com/in/abdulbari-kassim-a86726300/) 
