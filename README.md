@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm @Abdulbarikassim, an aspiring backend engineer  and tech enthusiast with a Bachelor's degree in Information Technology from Middlesex University Dubai 🎓. Currently in my final year, I’m exploring the depths of web development, machine learning, and artificial intelligence.
+I'm @Abdulbarikassim, an aspiring backend engineer  and tech enthusiast with a Bachelor's degree in Information Technology from Middlesex University Dubai 🎓.  I’m exploring the depths of building APIs, machine learning, and artificial intelligence.
 
 ### 🌟 About Me
 - 🔧 Proficient in **Node.js**, **MongoDB**, **Express.js**, **C++** and **python**.
