@@ -11,7 +11,7 @@ I'm @Abdulbarikassim, an aspiring backend engineer  and tech enthusiast with a B
 - 💻 Eager to contribute to open-source projects and collaborate on impactful tech innovations.
 
 ### 🛠️ Skills
-- **Languages**: Python, JavaScript, SQL,C++
+- **Languages**: Python, JavaScript, SQL,C++,Go
 - **Frameworks**: Express.js, Vue.js,flask,Django
 - **Databases**: MongoDB (Atlas)
 - **Tools**: Git, Docker, VS Code
