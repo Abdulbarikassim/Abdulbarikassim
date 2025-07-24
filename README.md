@@ -1,19 +1,17 @@
 
 # Hi there! 👋
 
-I'm @Abdulbarikassim, an aspiring backend engineer  and tech enthusiast with a Bachelor's degree in Information Technology from Middlesex University Dubai 🎓.  I’m exploring the depths of building APIs, machine learning, and artificial intelligence.
+I'm @Abdulbarikassim, an aspiring backend engineer  and tech enthusiast with a Bachelor's degree in Information Technology from Middlesex University Dubai 🎓.  I’m exploring the depths of building APIs and machine learning. 
 
 ### 🌟 About Me
-- 🔧 Proficient in **Node.js**, **MongoDB**, **Express.js**, **C++** and **python**.
+- 🔧 Proficient in **FastAPi**, **MongoDB**, **Go**, **C++** and **python**.
 - 🤖 Passionate about **machine learning** and recently built a handwritten digit recognition model using **NumPy** from scratch.
-- 🌐 Experienced with **Vue.js**  and **React.js**for frontend development and building RESTful APIs.
-- 🚀 Currently working on exciting projects, including AI-powered solutions for industries like ENOC.
 - 💻 Eager to contribute to open-source projects and collaborate on impactful tech innovations.
 
 ### 🛠️ Skills
 - **Languages**: Python, JavaScript, SQL,C++,Go
-- **Frameworks**: Express.js, Vue.js,flask,Django
-- **Databases**: MongoDB (Atlas)
+- **Frameworks**: Express.js,flask,Django, FastAPI
+- **Databases**: MongoDB (Atlas), MySQL, PostgresSQL
 - **Tools**: Git, Docker, VS Code
 - **Concepts**: Neural Networks, Backend Development, API Design, Middleware, Routing and Deep Learning.
 
