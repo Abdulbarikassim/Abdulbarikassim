@@ -1,9 +1,23 @@
-# Hi, I'm Abdulbari Kassim
+# Abdulbari Kassim
 
-Design Engineer focused on building products through design and code.
+## Design Engineer
 
-I'm interested in product design, user experience, software engineering, and startups. Currently learning, building, and documenting the journey toward creating meaningful products.
+I build products through design and code.
 
-**Skills:** Figma, Product Design, UX Design, JavaScript, React, Python, FastAPI, MongoDB, PostgreSQL
+Interested in product design, user experience, software engineering, and startups. Currently learning, building, and sharing the process of creating meaningful digital products.
 
-**Currently focused on:** Design Engineering, Product Thinking, and building products in public.
+### Focus
+
+* Design Engineering
+* Product Design
+* User Experience
+* Software Engineering
+* Startups
+
+### Stack
+
+Figma · JavaScript · React · Python · FastAPI · MongoDB · PostgreSQL
+
+### Currently
+
+Building in public and documenting the journey.
